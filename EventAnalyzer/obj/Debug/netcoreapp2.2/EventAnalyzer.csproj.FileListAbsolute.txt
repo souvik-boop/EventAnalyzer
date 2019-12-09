@@ -1,0 +1,11 @@
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\bin\Debug\netcoreapp2.2\EventAnalyzer.deps.json
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\bin\Debug\netcoreapp2.2\EventAnalyzer.runtimeconfig.json
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\bin\Debug\netcoreapp2.2\EventAnalyzer.runtimeconfig.dev.json
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\bin\Debug\netcoreapp2.2\EventAnalyzer.dll
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\obj\Debug\netcoreapp2.2\EventAnalyzer.csprojAssemblyReference.cache
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\obj\Debug\netcoreapp2.2\EventAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\obj\Debug\netcoreapp2.2\EventAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\obj\Debug\netcoreapp2.2\EventAnalyzer.AssemblyInfo.cs
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\bin\Debug\netcoreapp2.2\EventAnalyzer.pdb
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\obj\Debug\netcoreapp2.2\EventAnalyzer.dll
+C:\Users\Souvik Mazumder\source\repos\EventAnalyzer\EventAnalyzer\obj\Debug\netcoreapp2.2\EventAnalyzer.pdb
